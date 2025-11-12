@@ -1,0 +1,68 @@
+[
+  {
+    "productId": 1,
+    "productname": "Veg Burger",
+    "description": "Good for vegetarains",
+    "Stock": true
+  },
+  {
+    "productId": 2,
+    "productname": "Chicken Burger",
+    "description": "Best seller",
+    "Stock": true
+  },
+  {
+    "productId": 3,
+    "productname": "French Fries",
+    "description": "Crispy and hot",
+    "Stock": false
+  },
+  {
+    "productId": 4,
+    "productname": "Pizza",
+    "description": "Cheesy delight",
+    "Stock": true
+  },
+  {
+    "productId": 5,
+    "productname": "Pasta",
+    "description": "Italian classic",
+    "Stock": true
+  },
+  {
+    "productId": 6,
+    "productname": "Coke",
+    "description": "Cold drink",
+    "Stock": true
+  },
+  {
+    "productId": 7,
+    "productname": "Pepsi",
+    "description": "Soft drink",
+    "Stock": true
+  },
+  {
+    "productId": 8,
+    "productname": "Noodles",
+    "description": "Spicy noodles",
+    "Stock": true
+  },
+  {
+    "productId": 9,
+    "productname": "Ice Cream",
+    "description": "Vanilla flavor",
+    "Stock": true
+  },
+  {
+    "productId": 10,
+    "productname": "Chocolate Shake",
+    "description": "Sweet and cold",
+    "Stock": true
+  },
+  {
+    "productId": 11,
+    "productname": "Vanilla Shake",
+    "description": "Creamy and refreshing",
+    "Stock": true
+  }
+]
