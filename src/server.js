@@ -1,9 +1,12 @@
 // Import the Express framework
 const express = require("express");
+
 // Create an instance of an Express application
 const app = express();
+
 // Import product-related routes from another file
 const productRoutes = require("./routes/productRoutes");
+
 //Middleware to parse JSON
 app.use(express.json());
 
