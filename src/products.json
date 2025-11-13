@@ -2,7 +2,7 @@
   {
     "productId": 1,
     "productname": "Veg Burger",
-    "description": "Good for vegetarains",
+    "description": "Preferred by Both Vegetarains and Non Vegetarians",
     "Stock": true
   },
   {
@@ -10,12 +10,6 @@
     "productname": "Chicken Burger",
     "description": "Best seller",
     "Stock": true
-  },
-  {
-    "productId": 3,
-    "productname": "French Fries",
-    "description": "Crispy and hot",
-    "Stock": false
   },
   {
     "productId": 4,
